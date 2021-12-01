@@ -1,4 +1,4 @@
-import classes from "../../../src/components/UI/Modal.module.css";
+import classes from "../UI/Modal.module.css";
 import React, { Fragment } from "react";
 import  ReactDOM  from "react-dom";
 const Backdrop = (props) => {
